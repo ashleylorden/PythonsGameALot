@@ -1,4 +1,5 @@
 PythonsGameALot
 ===============
 
-A series of mini-games using python I learned in one week
+A series of mini-games using beginning python I learned in one week.
+
